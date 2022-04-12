@@ -1,8 +1,8 @@
 /*
- * File: env_builtins.c
- * Auth: Ntombi Mathibela
- *       Zandile Tshabalala
+ * File: builtin.c
+ * Auth: Ntombi Mathibela and Zandile Tshabalala
  */
+
 
 #include "shell.h"
 
