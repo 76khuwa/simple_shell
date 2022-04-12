@@ -3,7 +3,7 @@
 
 /*
  * File: shell.h
- * Auth: Eugene Madzaga and Elizabeth Mashilo
+ * Auth: Ntombi Mathibela and Zandile Tshabalala
  */
 
 #include <fcntl.h>
