@@ -283,7 +283,7 @@ $
 
 ## Authors :black_nib:
 
-* Eugene Madzaga and Elizabeth Mashilo
+* Ntombi Mathibela and Zandile Tshabalala
 
 ## License :lock:
 
